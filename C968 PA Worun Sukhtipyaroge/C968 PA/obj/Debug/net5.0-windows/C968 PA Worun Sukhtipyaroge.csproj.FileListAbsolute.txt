@@ -1,0 +1,20 @@
+C:\Users\wnsuk\OneDrive\Documents\WGU\Software I\C968 PA\bin\Debug\net5.0-windows\C968 PA Worun Sukhtipyaroge.exe
+C:\Users\wnsuk\OneDrive\Documents\WGU\Software I\C968 PA\bin\Debug\net5.0-windows\C968 PA Worun Sukhtipyaroge.deps.json
+C:\Users\wnsuk\OneDrive\Documents\WGU\Software I\C968 PA\bin\Debug\net5.0-windows\C968 PA Worun Sukhtipyaroge.runtimeconfig.json
+C:\Users\wnsuk\OneDrive\Documents\WGU\Software I\C968 PA\bin\Debug\net5.0-windows\C968 PA Worun Sukhtipyaroge.runtimeconfig.dev.json
+C:\Users\wnsuk\OneDrive\Documents\WGU\Software I\C968 PA\bin\Debug\net5.0-windows\C968 PA Worun Sukhtipyaroge.dll
+C:\Users\wnsuk\OneDrive\Documents\WGU\Software I\C968 PA\bin\Debug\net5.0-windows\ref\C968 PA Worun Sukhtipyaroge.dll
+C:\Users\wnsuk\OneDrive\Documents\WGU\Software I\C968 PA\bin\Debug\net5.0-windows\C968 PA Worun Sukhtipyaroge.pdb
+C:\Users\wnsuk\OneDrive\Documents\WGU\Software I\C968 PA\obj\Debug\net5.0-windows\C968 PA Worun Sukhtipyaroge.csproj.AssemblyReference.cache
+C:\Users\wnsuk\OneDrive\Documents\WGU\Software I\C968 PA\obj\Debug\net5.0-windows\C968_PA.Form1.resources
+C:\Users\wnsuk\OneDrive\Documents\WGU\Software I\C968 PA\obj\Debug\net5.0-windows\C968 PA Worun Sukhtipyaroge.csproj.GenerateResource.cache
+C:\Users\wnsuk\OneDrive\Documents\WGU\Software I\C968 PA\obj\Debug\net5.0-windows\C968 PA Worun Sukhtipyaroge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wnsuk\OneDrive\Documents\WGU\Software I\C968 PA\obj\Debug\net5.0-windows\C968 PA Worun Sukhtipyaroge.AssemblyInfoInputs.cache
+C:\Users\wnsuk\OneDrive\Documents\WGU\Software I\C968 PA\obj\Debug\net5.0-windows\C968 PA Worun Sukhtipyaroge.AssemblyInfo.cs
+C:\Users\wnsuk\OneDrive\Documents\WGU\Software I\C968 PA\obj\Debug\net5.0-windows\C968 PA Worun Sukhtipyaroge.csproj.CoreCompileInputs.cache
+C:\Users\wnsuk\OneDrive\Documents\WGU\Software I\C968 PA\obj\Debug\net5.0-windows\C968 PA Worun Sukhtipyaroge.dll
+C:\Users\wnsuk\OneDrive\Documents\WGU\Software I\C968 PA\obj\Debug\net5.0-windows\ref\C968 PA Worun Sukhtipyaroge.dll
+C:\Users\wnsuk\OneDrive\Documents\WGU\Software I\C968 PA\obj\Debug\net5.0-windows\C968 PA Worun Sukhtipyaroge.pdb
+C:\Users\wnsuk\OneDrive\Documents\WGU\Software I\C968 PA\obj\Debug\net5.0-windows\C968 PA Worun Sukhtipyaroge.genruntimeconfig.cache
+C:\Users\wnsuk\OneDrive\Documents\WGU\Software I\C968 PA\obj\Debug\net5.0-windows\C968_PA.Form2.resources
+C:\Users\wnsuk\OneDrive\Documents\WGU\Software I\C968 PA\obj\Debug\net5.0-windows\C968_PA.Form3.resources
